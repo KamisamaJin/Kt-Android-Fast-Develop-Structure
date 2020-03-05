@@ -1,9 +1,2 @@
-## 图片加载
-- Glide
-
-## 网络请求
-- Retrofit + RxJava(RxAndroid)
-
-## MVVM
-- Android DataBinding
+利用kt + jetpack实现的 "育娃儿" app
 
